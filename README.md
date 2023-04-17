@@ -16,9 +16,9 @@ but wait...
 ![image](https://user-images.githubusercontent.com/43297242/232600976-d36de01a-65b8-408f-bf7c-5c39be8bd6b2.png)
 
 
-yes, they are. The neural network encodes multiple choices in a single matrix(your model) whereby each node is an if condition and each weight is the activator of such condition.
+yes, they are. The neural network encodes multiple choices in a single matrix (your model) whereby each node is an if condition and each weight is the activator of such condition.
 ---
 
-PS: ofc this is a very poor AI with very low accuracy. It can only cathegorize 2 colors and the weights were defined at my taste.
+PS: ofc this is a very poor AI with very low accuracy. It can only cathegorize 2 colors and the weights were defined at my taste (they dont even really matter).
 # DO NOT USE IN PRODUCTION
 
