@@ -1,8 +1,8 @@
-# Purple-rAIn
+# Purple rAIn
 ### The simplest neural network in existence (8 lines of code with no dependency)
 
 Run:
-```
+``` python
 > python .\purple_rain.py "150,100,150"
 > purple
 ```
