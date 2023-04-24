@@ -8,7 +8,7 @@ Run:
 ```
 
 Graph of the neural network with 2 layers (input/output):
-![image](https://user-images.githubusercontent.com/43297242/234066799-08732308-5e28-47e3-a2bb-57e20b2f3f9d.png)
+![image](https://user-images.githubusercontent.com/43297242/234131697-193fcfa5-ade3-422f-bfa0-4cb7cb4e3242.png)
 
 ---
 
