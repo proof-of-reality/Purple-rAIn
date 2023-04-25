@@ -11,7 +11,7 @@ Run:
 ```
 
 Graph of the neural network with 2 layers:
-![image](https://user-images.githubusercontent.com/43297242/234131697-193fcfa5-ade3-422f-bfa0-4cb7cb4e3242.png)
+<img width="100%" alt="purple rain" src="https://user-images.githubusercontent.com/43297242/234350164-6156f3de-ecba-4bfc-bf79-9c3050d5ab3a.png">
 
 ---
 
